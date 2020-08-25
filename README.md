@@ -31,4 +31,5 @@ In the real world Java is used for:
     - Java's age means many old applications were written in Java, so understanding it is useful to understanding the "historical record" of software
   - [x] Writing stuff for Android
     - Most of Android (the thing that isn't an iPhone) is written in Java
-  - [x] 
+  - [x] Making websites that do stuff
+    - Java is often used to make web servers (or, the thing responsible for displaying all the cool stuff on this webpage)
