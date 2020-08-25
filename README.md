@@ -1,6 +1,7 @@
 # Java: Not &nbsp;:coffee:
 This mod we'll be writing code in Java. \
-According to the internets Java is: "Java is a class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible." \
+According to the internets Java is:\
+"Java is a class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible." \
 Much clear, very little prohibitive vocabulary.
 
 ### An analogy
